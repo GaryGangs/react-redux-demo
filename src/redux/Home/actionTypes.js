@@ -1,0 +1,6 @@
+export const REG_USERS = "inbox/get-registered-users"
+export const REG_USERS_SUCCESS = "inbox/get-registered-users-success"
+export const REG_USERS_FAILURE = "inbox/get-registered-users-failure"
+export const REG_PROJ = "inbox/get-registered-projects"
+export const REG_PROJ_FAILURE = "inbox/get-registered-projects-failure"
+export const REG_PROJ_SUCCESS = "inbox/get-registered-projects-success"
